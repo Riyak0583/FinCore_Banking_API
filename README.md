@@ -1,4 +1,9 @@
+![alt text](Company_Logo.png)
+
+---
+
 # FinCore_Banking_API
+
 ---
 
 # Industry Scenario
@@ -45,3 +50,6 @@ This project will help students learn:
 - Agile Sprint Workflow
 - Backend Project Development
 ```
+---
+
+![alt text](Information_graphics.png)
